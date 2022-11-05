@@ -1,0 +1,7 @@
+torch~=1.13.0+cu116
+torchvision~=0.14.0+cu116
+Pillow~=9.3.0
+gradio
+torchtext
+tqdm
+numpy~=1.23.4
