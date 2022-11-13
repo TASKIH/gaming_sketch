@@ -10,7 +10,13 @@ Anime2Sketchを使ってイラストを線画化し、その線画を虹色に�
 ## 実行環境
 
 Python 3.9.12
-ipynbを実行する場合は、Jupyter notebookが必要。
+ipynbを実行する場合は、Jupyter notebookが必要です。
+
+以下のライブラリはOSやCPU/GPUなどに応じたそれぞれの環境に則したものが必要です。
+https://pytorch.org/
+- torch
+- torchvision
+
 
 ### 使い方
 
